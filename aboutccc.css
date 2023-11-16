@@ -17,3 +17,21 @@
     margin-top: 3rem;
 
 }
+.doc-img{
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    display: flex;
+}
+.row-img{
+    width: 93%;
+    height: auto;
+    gap: 3rem;
+    display: flex;
+}
+.content-item img{
+    width: 100px;
+    height: 110px;
+
+
+}
